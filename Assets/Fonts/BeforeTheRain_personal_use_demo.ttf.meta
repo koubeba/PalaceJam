@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebb2d708b16a62a418e504a15519bd09
+timeCreated: 1498935789
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Before the Rain
+  fontNames:
+  - Before the Rain
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
